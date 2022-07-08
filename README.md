@@ -1,2 +1,5 @@
-# besser-python
-An Ongoing Guide to Open, Clean, Clear, Bug-free, Reproducible Python Code
+# 🔬 An Ongoing Guide to Open, Clean, Clear, Bug-free, Reproducible Python Code
+
+TBD
+
+[Notion Page](https://www.notion.so/chenxshuo/An-Ongoing-Guide-to-Open-Clean-Clear-Bug-free-Reproducible-Python-Code-46c100c0bdd34195bbc35bc401443275)
